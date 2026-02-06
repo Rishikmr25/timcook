@@ -1,0 +1,8 @@
+
+{
+  "name": "Guard AI",
+  "description": "Intelligent multi-camera surveillance system with silent distress signal detection and physical threat monitoring.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
